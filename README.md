@@ -1,4 +1,4 @@
-Simple Task Management API Using laravel - Created Bt Md. Shawn Shikder Sonet
+Simple Task Management API Using laravel - Created By Md. Shawn Shikder Sonet
 
 ## Installation
 
